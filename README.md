@@ -1,1 +1,1 @@
-# gdsc_deploy
+# mini_projects
